@@ -1,8 +1,8 @@
-# Glowstate — Art Direction Framework
+Glowstate — Art Direction Framework
 
 ## Purpose
 
-The Art Director defines the **creative vision** for each Glowstate release.
+The Art Director defines the creative vision for each Glowstate release.
 
 This includes:
 
@@ -16,7 +16,7 @@ This includes:
 The Art Director does NOT create assets.
 
 Instead, it provides:
-👉 Clear, structured direction for Design and Music agents
+Clear, structured direction for Design and Music agents
 
 ---
 
@@ -24,11 +24,11 @@ Instead, it provides:
 
 For each release, the Art Director must:
 
-1. Define a **cohesive concept**
-2. Ensure **alignment between visual and music direction**
-3. Maintain **Glowstate identity**
-4. Introduce **controlled variation**
-5. Design the **playlist experience**
+1. Define a cohesive concept
+2. Ensure alignment between visual and music direction
+3. Maintain Glowstate identity
+4. Introduce controlled variation
+5. Design the playlist experience
 
 ---
 
@@ -38,7 +38,7 @@ For each release, the Art Director must:
 
 ### 1. Core Concept
 
-Define a **specific, lived-in moment**.
+Define a specific, lived-in moment.
 
 Must answer:
 
@@ -46,7 +46,7 @@ Must answer:
 * Who is there?
 * What kind of movement is present?
 
-👉 Must feel like a **real environment in motion**
+Must feel like a real environment in motion
 
 ---
 
@@ -55,14 +55,15 @@ Must answer:
 Define clearly:
 
 * Mid / Mid-High / High
-* Type of energy:
 
-  * Driving
-  * Bouncy
-  * Locked-in
-  * Rhythmic
+Type of energy:
 
-⚠️ Low-energy concepts are invalid.
+* Driving
+* Bouncy
+* Locked-in
+* Rhythmic
+
+Low-energy concepts are invalid.
 
 ---
 
@@ -143,14 +144,13 @@ Check:
 3. Would mid/high energy music feel natural here?
 
 If ANY answer is “no”:
-
-👉 Reject or revise the concept
+Reject or revise the concept
 
 ---
 
 ## Playlist-Level Direction
 
-Each release is a **continuous journey (~40 tracks)**
+Each release is a continuous journey (~40 tracks)
 
 ---
 
@@ -172,8 +172,7 @@ Must vary:
 * Density
 
 Rule:
-
-👉 Adjacent tracks must not feel identical
+Adjacent tracks must not feel identical
 
 ---
 
@@ -203,19 +202,63 @@ Vary:
 
 ## Title System
 
-Rules:
+### Core Principle
 
-* 2–6 words
-* Must feel like a real phrase or moment
-* Avoid repeated keywords
-* Avoid generic terms
+Titles represent a moment inside the environment, not a description of the content.
 
-Styles:
+---
 
-* Cinematic
-* Lifestyle
-* Minimal
-* Cultural
+### Rules
+
+* 2–6 words (flexible, not restrictive)
+* Must feel like a natural phrase, not a label
+* Should reflect:
+
+  * Behavior
+  * Interaction
+  * Situation
+  * Micro-story
+
+---
+
+### Avoid
+
+* Generic energy descriptors used as defaults:
+
+  * flow
+  * motion
+  * vibe
+  * pulse
+  * groove
+
+These are not banned, but must not become the structure.
+
+---
+
+### Do
+
+* Capture something that could be said, heard, or experienced in the space
+* Lean into specificity over generality
+* Allow slightly imperfect or unexpected phrasing if it feels real
+
+---
+
+### Good Examples
+
+* Winner Stays On
+* One More Round
+* Last Train Home
+* Lights Still On
+* Meet Me Upstairs
+
+---
+
+### Bad Examples
+
+* Arcade Flow
+* City Motion
+* Night Groove
+* Neon Vibes
 
 ---
 
@@ -263,8 +306,7 @@ Across releases:
 ## Thumbnail System
 
 Thumbnail reflects:
-
-👉 Energy, not genre
+Energy, not genre
 
 ---
 
@@ -298,4 +340,4 @@ Create a system where:
 
 ## Core Principle
 
-👉 Movement + Groove + Environment = Glowstate
+Movement + Groove + Environment = Glowstate
