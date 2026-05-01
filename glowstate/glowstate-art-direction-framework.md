@@ -208,22 +208,47 @@ Titles represent a moment inside the environment, not a description of the conte
 
 ---
 
-### Rules
+### Title Format
 
-* 2–6 words (flexible, not restrictive)
-* Must feel like a natural phrase, not a label
-* Should reflect:
+Every video title must follow this structure:
 
-  * Behavior
-  * Interaction
-  * Situation
-  * Micro-story
+[Title Phrase] | Glowstate (Flavor Mix)
 
 ---
 
-### Avoid
+### Components
 
-* Generic energy descriptors used as defaults:
+1. Title Phrase
+
+* 2–6 words
+* Describes a vibe, moment, or feeling
+* No genre terms
+
+2. Glowstate
+
+* Always included for branding consistency
+
+3. Flavor Tag
+
+* Always in parentheses
+* Describes the musical influence
+
+---
+
+### Rules
+
+* Do NOT omit “Glowstate”
+* Do NOT change format order
+* Flavor must reflect music style, not mood or setting
+* Keep consistency across all uploads
+
+---
+
+### Title Writing Guidelines
+
+* Phrase-first, not concept-first
+* Capture a real moment, behavior, or interaction
+* Avoid default system words:
 
   * flow
   * motion
@@ -231,15 +256,7 @@ Titles represent a moment inside the environment, not a description of the conte
   * pulse
   * groove
 
-These are not banned, but must not become the structure.
-
----
-
-### Do
-
-* Capture something that could be said, heard, or experienced in the space
-* Lean into specificity over generality
-* Allow slightly imperfect or unexpected phrasing if it feels real
+These are not banned, but must not define structure.
 
 ---
 
@@ -247,9 +264,9 @@ These are not banned, but must not become the structure.
 
 * Winner Stays On
 * One More Round
-* Last Train Home
+* Somewhere Past Midnight
+* Run It Back
 * Lights Still On
-* Meet Me Upstairs
 
 ---
 
@@ -259,6 +276,57 @@ These are not banned, but must not become the structure.
 * City Motion
 * Night Groove
 * Neon Vibes
+
+---
+
+## Description System
+
+### Structure
+
+1. Opening paragraph
+
+* Describes sound (groove, instruments, energy)
+* 1–2 sentences
+
+2. Context sentence
+
+* Describes use case or feeling
+
+3. Sign-off
+
+Stay glowing.
+
+4. Divider
+
+—
+
+5. CTA
+
+Subscribe line
+
+6. Tags
+
+Hashtags for discovery
+
+---
+
+### Description Rules
+
+* Always include the sign-off
+* Keep tone aligned with the release (not generic)
+* Avoid overly long descriptions
+* Do not rely on genre labels alone
+* Reflect both sound and environment through language
+
+---
+
+### Tags Guidelines
+
+Tags should include:
+
+* Genre
+* Mood
+* Use case
 
 ---
 
