@@ -150,16 +150,31 @@ Reject or revise the concept
 
 ## Playlist-Level Direction
 
-Each release is a continuous journey (~40 tracks)
+Each release is a continuous journey (~30 tracks)
 
 ---
 
 ### Playlist Arc
 
-1. Entry — accessible groove
-2. Build — variation introduced
-3. Peak — strongest identity
-4. Release — slightly relaxed
+1. Entry (Tracks 1–6)
+
+   * Establish core groove and environment quickly
+   * Accessible and immediately recognizable identity
+
+2. Build (Tracks 7–15)
+
+   * Introduce stronger rhythmic variation
+   * Increase density, syncopation, and movement
+
+3. Peak (Tracks 16–24)
+
+   * Strongest energy and most distinctive grooves
+   * Highest rhythmic intensity and confidence
+
+4. Release (Tracks 25–30)
+
+   * Slightly more breathable arrangements
+   * Maintain momentum without losing energy
 
 ---
 
@@ -173,6 +188,8 @@ Must vary:
 
 Rule:
 Adjacent tracks must not feel identical
+
+With a shorter playlist structure, variation must happen more frequently while maintaining cohesion.
 
 ---
 

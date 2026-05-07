@@ -1,10 +1,10 @@
-# Glowstate — Channel Identity
+Glowstate — Channel Identity
 
 ## What is Glowstate?
 
 Glowstate is a YouTube channel focused on:
 
-👉 **High-energy, groove-driven music paired with cohesive visual environments**
+High-energy, groove-driven music paired with cohesive visual environments
 
 Each release is a continuous audiovisual experience built around:
 
@@ -20,8 +20,8 @@ Glowstate is not defined by genre.
 
 It is defined by:
 
-👉 **How the music feels**
-👉 **How the world moves**
+* How the music feels
+* How the world moves
 
 ---
 
@@ -47,15 +47,15 @@ All Glowstate content must be:
 
 Glowstate is:
 
-✔ Energetic
-✔ Flowing
-✔ Engaging
+* Energetic
+* Flowing
+* Engaging
 
 Glowstate is NOT:
 
-❌ Ambient
-❌ Static
-❌ Low-energy background music
+* Ambient
+* Static
+* Low-energy background music
 
 ---
 
@@ -91,7 +91,7 @@ Glowstate is ALWAYS groove-energized.
 
 Every concept must pass this test:
 
-👉 **Would this environment naturally support a strong rhythmic groove?**
+Would this environment naturally support a strong rhythmic groove?
 
 If not, it is invalid.
 
@@ -132,8 +132,9 @@ Examples to reject:
 
 ### Energy Rule
 
-👉 Movement alone is NOT enough
-👉 Movement must feel **energized and groove-compatible**
+Movement alone is NOT enough
+
+Movement must feel energized and groove-compatible
 
 ---
 
@@ -145,7 +146,7 @@ If the concept feels like:
 * Ambient content
 * Slow lifestyle footage
 
-❌ Reject it
+Reject it
 
 If it feels like:
 
@@ -153,7 +154,7 @@ If it feels like:
 * The environment has rhythm
 * People or elements move with intent
 
-✅ Accept it
+Accept it
 
 ---
 
@@ -175,8 +176,7 @@ It may draw from multiple influences:
 * Electronic
 
 But:
-
-👉 These are **flavors**, not identity
+These are flavors, not identity
 
 ---
 
@@ -236,7 +236,7 @@ Glowstate is not:
 
 Each video should feel like:
 
-👉 Entering a space where everything is moving in sync with the groove
+Entering a space where everything is moving in sync with the groove
 
 * Time feels continuous
 * The environment feels alive
@@ -248,17 +248,15 @@ Each video should feel like:
 
 Each release:
 
-* ~1.5 hours
-* ~40 tracks
+* ~1–1.25 hours
+* ~30 tracks
 * Designed as one continuous journey
 
 Not:
-
-❌ A collection of unrelated beats
+A collection of unrelated beats
 
 But:
-
-👉 A **cohesive experience with variation**
+A cohesive experience with variation
 
 ---
 
@@ -288,4 +286,4 @@ Everything flows
 
 ## Core Principle
 
-👉 **Glowstate = Groove + Motion + Environment**
+Glowstate = Groove + Motion + Environment
